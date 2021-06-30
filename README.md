@@ -1,5 +1,5 @@
-config.php - configure database\n
-login.php - allows user to login\n
-register.php - allows user to register\n
-welcome.php - if user was able to login then redirect him to welocme page\n
+config.php - configure database
+login.php - allows user to login
+register.php - allows user to register
+welcome.php - if user was able to login then redirect him to welocme page
 logout.php - allows user to logout
